@@ -1,0 +1,502 @@
+fileFormatVersion: 2
+guid: 48d9290531fdf9348be0e9ad99b5c4a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5910361965194564864
+    second: alina - fly 2nd version_0
+  - first:
+      213: 582004551767609180
+    second: alina - fly 2nd version_1
+  - first:
+      213: -1973946600778819216
+    second: alina - fly 2nd version_2
+  - first:
+      213: 980252524614547956
+    second: alina - fly 2nd version_3
+  - first:
+      213: -494708501174187784
+    second: alina - fly 2nd version_4
+  - first:
+      213: 4493647317526088654
+    second: alina - fly 2nd version_5
+  - first:
+      213: 377878746062953567
+    second: alina - fly 2nd version_6
+  - first:
+      213: 6155279307989731971
+    second: alina - fly 2nd version_7
+  - first:
+      213: -537941594937965581
+    second: alina - fly 2nd version_8
+  - first:
+      213: 6518738604642845455
+    second: alina - fly 2nd version_9
+  - first:
+      213: -1960900578127550140
+    second: alina - fly 2nd version_10
+  - first:
+      213: 2020538985927213296
+    second: alina - fly 2nd version_11
+  - first:
+      213: 8001917920499972333
+    second: alina - fly 2nd version_12
+  - first:
+      213: 7335464695519154010
+    second: alina - fly 2nd version_13
+  - first:
+      213: 94449781831518144
+    second: alina - fly 2nd version_14
+  - first:
+      213: -5257736911006652095
+    second: alina - fly 2nd version_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: alina - fly 2nd version_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 805
+        width: 211
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b299a6b1d2afda0800000000000000
+      internalID: -5910361965194564864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alina - fly 2nd version_1
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 803
+        width: 213
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fc4c56e02b31800800000000000000
+      internalID: 582004551767609180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alina - fly 2nd version_2
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 797
+        width: 223
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0791df666022b94e0800000000000000
+      internalID: -1973946600778819216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alina - fly 2nd version_3
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 797
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f974df3a7e8a9d00800000000000000
+      internalID: 980252524614547956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alina - fly 2nd version_4
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 575
+        width: 215
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f885204d317229f0800000000000000
+      internalID: -494708501174187784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alina - fly 2nd version_5
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 572
+        width: 198
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb870b4d64ac5e30800000000000000
+      internalID: 4493647317526088654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alina - fly 2nd version_6
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 572
+        width: 197
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c904ba7be7e3500800000000000000
+      internalID: 377878746062953567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alina - fly 2nd version_7
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 571
+        width: 191
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a4a062be1fb6550800000000000000
+      internalID: 6155279307989731971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alina - fly 2nd version_8
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 318
+        width: 211
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3c0d338f8d888f0800000000000000
+      internalID: -537941594937965581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alina - fly 2nd version_9
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 318
+        width: 223
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03cc512936377a50800000000000000
+      internalID: 6518738604642845455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alina - fly 2nd version_10
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 325
+        width: 197
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44969d0405b79c4e0800000000000000
+      internalID: -1960900578127550140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alina - fly 2nd version_11
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 337
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0050f90856a0c10800000000000000
+      internalID: 2020538985927213296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alina - fly 2nd version_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 67
+        width: 200
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8bb35e3f58c0f60800000000000000
+      internalID: 8001917920499972333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alina - fly 2nd version_13
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 64
+        width: 195
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f86de864eccc560800000000000000
+      internalID: 7335464695519154010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alina - fly 2nd version_14
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 54
+        width: 190
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c74e2f739d8f4100800000000000000
+      internalID: 94449781831518144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alina - fly 2nd version_15
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 50
+        width: 204
+        height: 211
+      alignment: 9
+      pivot: {x: 0.51838744, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1492df8d224c807b0800000000000000
+      internalID: -5257736911006652095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

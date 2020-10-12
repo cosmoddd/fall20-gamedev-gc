@@ -7,6 +7,8 @@ public class RaycastRoomba : MonoBehaviour {
     public float roombaDetectionDistance = 4f;
     public float  roombaSpeed = 5f;
 
+    public LayerMask myLayerMask;
+
 	void Update () 
     {
         // STEP 1: define Ray

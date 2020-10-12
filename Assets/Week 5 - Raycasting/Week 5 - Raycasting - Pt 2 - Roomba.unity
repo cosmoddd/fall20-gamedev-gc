@@ -1427,6 +1427,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   roombaDetectionDistance: 2
   roombaSpeed: 3
+  myLayerMask:
+    serializedVersion: 2
+    m_Bits: 1335
 --- !u!212 &1669957050
 SpriteRenderer:
   m_ObjectHideFlags: 0

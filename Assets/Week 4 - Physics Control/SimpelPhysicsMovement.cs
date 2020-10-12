@@ -13,9 +13,11 @@ public class SimpelPhysicsMovement : MonoBehaviour
 
     public Vector3 movementVector;
 
+
     void Start()
     {
         GetComponent<Rigidbody2D>();
+
     }
 
     public bool moving;

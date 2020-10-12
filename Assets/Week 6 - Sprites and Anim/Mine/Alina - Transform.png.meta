@@ -1,0 +1,934 @@
+fileFormatVersion: 2
+guid: f82d0fbdef192f6418defe4111689cbf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8244905122694754394
+    second: Alina - Transform_0
+  - first:
+      213: 3747075336579090610
+    second: Alina - Transform_1
+  - first:
+      213: 1044244509177759961
+    second: Alina - Transform_2
+  - first:
+      213: 4799610009151114984
+    second: Alina - Transform_3
+  - first:
+      213: -2690451057820057101
+    second: Alina - Transform_4
+  - first:
+      213: -6499057370277934683
+    second: Alina - Transform_5
+  - first:
+      213: 6838035112369832117
+    second: Alina - Transform_6
+  - first:
+      213: -7291968299305503782
+    second: Alina - Transform_7
+  - first:
+      213: -9154692300731151540
+    second: Alina - Transform_8
+  - first:
+      213: -5971601000114264380
+    second: Alina - Transform_9
+  - first:
+      213: 5274170469401971661
+    second: Alina - Transform_10
+  - first:
+      213: -5040753910412171156
+    second: Alina - Transform_11
+  - first:
+      213: -7145625180925662223
+    second: Alina - Transform_12
+  - first:
+      213: 5592652578089902169
+    second: Alina - Transform_13
+  - first:
+      213: 5299477117175580594
+    second: Alina - Transform_14
+  - first:
+      213: 3504021695042792871
+    second: Alina - Transform_15
+  - first:
+      213: -8139454038548819115
+    second: Alina - Transform_16
+  - first:
+      213: -1597678601468759162
+    second: Alina - Transform_17
+  - first:
+      213: 5809421339896135007
+    second: Alina - Transform_18
+  - first:
+      213: 3901499535465774617
+    second: Alina - Transform_19
+  - first:
+      213: 5100878717810081475
+    second: Alina - Transform_20
+  - first:
+      213: -1998628254677314208
+    second: Alina - Transform_21
+  - first:
+      213: 6551754590378162544
+    second: Alina - Transform_22
+  - first:
+      213: -8300533612766287202
+    second: Alina - Transform_23
+  - first:
+      213: -677311368271992726
+    second: Alina - Transform_24
+  - first:
+      213: -6897071138758801684
+    second: Alina - Transform_25
+  - first:
+      213: 5182959296566449862
+    second: Alina - Transform_26
+  - first:
+      213: 8060428117544029418
+    second: Alina - Transform_27
+  - first:
+      213: 7015460279873283314
+    second: Alina - Transform_28
+  - first:
+      213: 7005264140940800066
+    second: Alina - Transform_29
+  - first:
+      213: -1906455116108538957
+    second: Alina - Transform_30
+  - first:
+      213: 8996956166189264077
+    second: Alina - Transform_31
+  - first:
+      213: -5363943402121782630
+    second: Alina - Transform_32
+  - first:
+      213: 7645524023750937035
+    second: Alina - Transform_33
+  - first:
+      213: -3459600339413105745
+    second: Alina - Transform_34
+  - first:
+      213: -3548965357079923674
+    second: Alina - Transform_35
+  - first:
+      213: 6647891406116391124
+    second: Alina - Transform_36
+  - first:
+      213: -2534331837851232929
+    second: Alina - Transform_37
+  - first:
+      213: 3743818876677335997
+    second: Alina - Transform_38
+  - first:
+      213: 2633266242073937373
+    second: Alina - Transform_39
+  - first:
+      213: -7278278149161210622
+    second: Alina - Transform_40
+  - first:
+      213: 7441732330651110386
+    second: Alina - Transform_41
+  - first:
+      213: 7460784722124186950
+    second: Alina - Transform_42
+  - first:
+      213: 5781888707736621029
+    second: Alina - Transform_43
+  - first:
+      213: 827558820163717893
+    second: Alina - Transform_44
+  - first:
+      213: -8951037333243281975
+    second: Alina - Transform_45
+  - first:
+      213: 2124085063880085338
+    second: Alina - Transform_46
+  - first:
+      213: 790186432071820876
+    second: Alina - Transform_47
+  - first:
+      213: -7813118505016694222
+    second: Alina - Transform_48
+  - first:
+      213: -2314443098583690896
+    second: Alina - Transform_49
+  - first:
+      213: 6388358756479592273
+    second: Alina - Transform_50
+  - first:
+      213: -5989666721602356493
+    second: Alina - Transform_51
+  - first:
+      213: -519941735551418061
+    second: Alina - Transform_52
+  - first:
+      213: 3918511086149687752
+    second: Alina - Transform_53
+  - first:
+      213: 7766580575275573008
+    second: Alina - Transform_54
+  - first:
+      213: -2324380478474454549
+    second: Alina - Transform_55
+  - first:
+      213: 2860327900018144409
+    second: Alina - Transform_56
+  - first:
+      213: -3979337386031027955
+    second: Alina - Transform_57
+  - first:
+      213: 4582578511411140054
+    second: Alina - Transform_58
+  - first:
+      213: 6721098970307293930
+    second: Alina - Transform_59
+  - first:
+      213: 2832616204422162570
+    second: Alina - Transform_60
+  - first:
+      213: 5116057885333895192
+    second: Alina - Transform_61
+  - first:
+      213: 3460389743281045031
+    second: Alina - Transform_62
+  - first:
+      213: -7580787587170868998
+    second: Alina - Transform_63
+  - first:
+      213: 3408140290961120129
+    second: Alina - Transform_64
+  - first:
+      213: 7899218396104374100
+    second: Alina - Transform_65
+  - first:
+      213: 5901103179872733390
+    second: Alina - Transform_66
+  - first:
+      213: -8272089453762124380
+    second: Alina - Transform_67
+  - first:
+      213: -2647015051061010444
+    second: Alina - Transform_68
+  - first:
+      213: 8713619759777992869
+    second: Alina - Transform_69
+  - first:
+      213: -3104334016584279610
+    second: Alina - Transform_70
+  - first:
+      213: 570828283043885313
+    second: Alina - Transform_71
+  - first:
+      213: 125868691085747942
+    second: Alina - Transform_72
+  - first:
+      213: -4056729074370279936
+    second: Alina - Transform_73
+  - first:
+      213: 4366374582322383056
+    second: Alina - Transform_74
+  - first:
+      213: 1185145404897509686
+    second: Alina - Transform_75
+  - first:
+      213: -3184756956966517032
+    second: Alina - Transform_76
+  - first:
+      213: -1439115066077844679
+    second: Alina - Transform_77
+  - first:
+      213: -2570498132792718159
+    second: Alina - Transform_78
+  - first:
+      213: 3864161290454775267
+    second: Alina - Transform_79
+  - first:
+      213: -6324673287477558453
+    second: Alina - Transform_80
+  - first:
+      213: -2292612782271243184
+    second: Alina - Transform_81
+  - first:
+      213: 8830684283452844696
+    second: Alina - Transform_82
+  - first:
+      213: -2099938116216527050
+    second: Alina - Transform_83
+  - first:
+      213: 6392277318555261839
+    second: Alina - Transform_84
+  - first:
+      213: 678507947074447059
+    second: Alina - Transform_85
+  - first:
+      213: 5912089972807524461
+    second: Alina - Transform_86
+  - first:
+      213: 4285853065671643725
+    second: Alina - Transform_87
+  - first:
+      213: 4976855059494619317
+    second: Alina - Transform_88
+  - first:
+      213: -6689810017906919214
+    second: Alina - Transform_89
+  - first:
+      213: 3318428028273678591
+    second: Alina - Transform_90
+  - first:
+      213: -4692594367007715795
+    second: Alina - Transform_91
+  - first:
+      213: -6244269541352705497
+    second: Alina - Transform_92
+  - first:
+      213: -7220605581029151341
+    second: Alina - Transform_93
+  - first:
+      213: 5356876346136949394
+    second: Alina - Transform_94
+  - first:
+      213: -1655193903597995471
+    second: Alina - Transform_95
+  - first:
+      213: -7179431412686116668
+    second: Alina - Transform_96
+  - first:
+      213: 6998478896899996889
+    second: Alina - Transform_97
+  - first:
+      213: -5905618157246052240
+    second: Alina - Transform_98
+  - first:
+      213: 1342258151785968295
+    second: Alina - Transform_99
+  - first:
+      213: 2673302948010781244
+    second: Alina - Transform_100
+  - first:
+      213: 142812026077277968
+    second: Alina - Transform_101
+  - first:
+      213: -68669397631253655
+    second: Alina - Transform_102
+  - first:
+      213: -6750287027831925837
+    second: Alina - Transform_103
+  - first:
+      213: -2332612457723360030
+    second: Alina - Transform_104
+  - first:
+      213: 8518242608938942767
+    second: Alina - Transform_105
+  - first:
+      213: -2587660137989483092
+    second: Alina - Transform_106
+  - first:
+      213: 5122917630546074694
+    second: Alina - Transform_107
+  - first:
+      213: 1523180869486077324
+    second: Alina - Transform_108
+  - first:
+      213: -5600339434037323812
+    second: Alina - Transform_109
+  - first:
+      213: -2130099375556547018
+    second: Alina - Transform_110
+  - first:
+      213: -3278349085503040030
+    second: Alina - Transform_111
+  - first:
+      213: 498859455095569818
+    second: Alina - Transform_112
+  - first:
+      213: 3533758476126684525
+    second: Alina - Transform_113
+  - first:
+      213: 7034985986493926286
+    second: Alina - Transform_114
+  - first:
+      213: -3358674089508016535
+    second: Alina - Transform_115
+  - first:
+      213: 492728459543918073
+    second: Alina - Transform_116
+  - first:
+      213: -4200364774669566045
+    second: Alina - Transform_117
+  - first:
+      213: 2606908139578518551
+    second: Alina - Transform_118
+  - first:
+      213: -6880336518344587148
+    second: Alina - Transform_119
+  - first:
+      213: 3990824918929273724
+    second: Alina - Transform_120
+  - first:
+      213: -2240314181714177356
+    second: Alina - Transform_121
+  - first:
+      213: 4669621116068656042
+    second: Alina - Transform_122
+  - first:
+      213: 5873824163497333914
+    second: Alina - Transform_123
+  - first:
+      213: 6366355761332256154
+    second: Alina - Transform_124
+  - first:
+      213: 4749013347301782399
+    second: Alina - Transform_125
+  - first:
+      213: 6997087506057571018
+    second: Alina - Transform_126
+  - first:
+      213: -1050942789589212832
+    second: Alina - Transform_127
+  - first:
+      213: 7663131274517661970
+    second: Alina - Transform_128
+  - first:
+      213: -6967862122961089570
+    second: Alina - Transform_129
+  - first:
+      213: 4412692415890178742
+    second: Alina - Transform_130
+  - first:
+      213: -1983423399877391501
+    second: Alina - Transform_131
+  - first:
+      213: 241272331918999630
+    second: Alina - Transform_132
+  - first:
+      213: -5058687191341973710
+    second: Alina - Transform_133
+  - first:
+      213: -7986157420965107086
+    second: Alina - Transform_134
+  - first:
+      213: 8417780802028618700
+    second: Alina - Transform_135
+  - first:
+      213: 442905813057501086
+    second: Alina - Transform_136
+  - first:
+      213: 4336813358932521206
+    second: Alina - Transform_137
+  - first:
+      213: 7129951671934941697
+    second: Alina - Transform_138
+  - first:
+      213: -385662846522148318
+    second: Alina - Transform_139
+  - first:
+      213: 6154482727944120299
+    second: Alina - Transform_140
+  - first:
+      213: -2949389003820707630
+    second: Alina - Transform_141
+  - first:
+      213: -4759684931089237963
+    second: Alina - Transform_142
+  - first:
+      213: 8625764514781515662
+    second: Alina - Transform_143
+  - first:
+      213: -1728465622444321872
+    second: Alina - Transform_144
+  - first:
+      213: -3815139499482772879
+    second: Alina - Transform_145
+  - first:
+      213: -5548431153520383835
+    second: Alina - Transform_146
+  - first:
+      213: 7470826327348380015
+    second: Alina - Transform_147
+  - first:
+      213: 1393797008790235615
+    second: Alina - Transform_148
+  - first:
+      213: 8838977208062213301
+    second: Alina - Transform_149
+  - first:
+      213: 1729108602180657129
+    second: Alina - Transform_150
+  - first:
+      213: -342416042682424411
+    second: Alina - Transform_151
+  - first:
+      213: -3217669365659691026
+    second: Alina - Transform_152
+  - first:
+      213: 7041379505080201986
+    second: Alina - Transform_153
+  - first:
+      213: 743230975554478232
+    second: Alina - Transform_154
+  - first:
+      213: 585515097395656426
+    second: Alina - Transform_155
+  - first:
+      213: -8200237307134815976
+    second: Alina - Transform_156
+  - first:
+      213: 117041248301269185
+    second: Alina - Transform_157
+  - first:
+      213: -3386044213794039435
+    second: Alina - Transform_158
+  - first:
+      213: -1347423815144398309
+    second: Alina - Transform_159
+  - first:
+      213: -9016314191672743919
+    second: Alina - Transform_160
+  - first:
+      213: -3606175531838955048
+    second: Alina - Transform_161
+  - first:
+      213: 7269227640218864320
+    second: Alina - Transform_162
+  - first:
+      213: -984926475414149768
+    second: Alina - Transform_163
+  - first:
+      213: -896360052825843384
+    second: Alina - Transform_164
+  - first:
+      213: -5075752269012387950
+    second: Alina - Transform_165
+  - first:
+      213: -9193932391689088192
+    second: Alina - Transform_166
+  - first:
+      213: -2241226196991175993
+    second: Alina - Transform_167
+  - first:
+      213: -7151323459123313407
+    second: Alina - Transform_168
+  - first:
+      213: -184003375181485397
+    second: Alina - Transform_169
+  - first:
+      213: -6103434635786752492
+    second: Alina - Transform_170
+  - first:
+      213: 2389701560301080366
+    second: Alina - Transform_171
+  - first:
+      213: -1937528041404517972
+    second: Alina - Transform_172
+  - first:
+      213: 7761195060064607117
+    second: Alina - Transform_173
+  - first:
+      213: -8536419966336893485
+    second: Alina - Transform_174
+  - first:
+      213: -5956847210353705135
+    second: Alina - Transform_175
+  - first:
+      213: -2694510387284422609
+    second: Alina - Transform_176
+  - first:
+      213: 8314619718750045405
+    second: Alina - Transform_177
+  - first:
+      213: -6324220525054721806
+    second: Alina - Transform_178
+  - first:
+      213: 4078118585457503665
+    second: Alina - Transform_179
+  - first:
+      213: 204752907910232459
+    second: Alina - Transform_180
+  - first:
+      213: -6156372730639674940
+    second: Alina - Transform_181
+  - first:
+      213: 625455515368617958
+    second: Alina - Transform_182
+  - first:
+      213: 9112322713144038226
+    second: Alina - Transform_183
+  - first:
+      213: 6130818897871797388
+    second: Alina - Transform_184
+  - first:
+      213: 6674564731265089470
+    second: Alina - Transform_185
+  - first:
+      213: -3600888030384015608
+    second: Alina - Transform_186
+  - first:
+      213: -8027861038417957505
+    second: Alina - Transform_187
+  - first:
+      213: 6591681164668692965
+    second: Alina - Transform_188
+  - first:
+      213: 28548320372852479
+    second: Alina - Transform_189
+  - first:
+      213: 9039209008453711137
+    second: Alina - Transform_190
+  - first:
+      213: -8577243852702907200
+    second: Alina - Transform_191
+  - first:
+      213: -1267793189812839708
+    second: Alina - Transform_192
+  - first:
+      213: 6717431614403374143
+    second: Alina - Transform_193
+  - first:
+      213: 750180574071295695
+    second: Alina - Transform_194
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alina - Transform_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 751
+        width: 236
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50f4059689cb6270800000000000000
+      internalID: 8244905122694754394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alina - Transform_1
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 750
+        width: 236
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b88c6f6a29400430800000000000000
+      internalID: 3747075336579090610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alina - Transform_2
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 755
+        width: 236
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8413439d6ed7e00800000000000000
+      internalID: 1044244509177759961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alina - Transform_3
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 748
+        width: 206
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee8cd7bfd3ab9240800000000000000
+      internalID: 4799610009151114984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alina - Transform_4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 393
+        width: 236
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1cf0d740999aad0800000000000000
+      internalID: -2690451057820057101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alina - Transform_5
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 395
+        width: 236
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a903b551c5bec5a0800000000000000
+      internalID: -6499057370277934683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alina - Transform_6
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 398
+        width: 236
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0c37a84b495ee50800000000000000
+      internalID: 6838035112369832117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alina - Transform_7
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 53
+        width: 236
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad37c7e5779bdca90800000000000000
+      internalID: -7291968299305503782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alina - Transform_8
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 49
+        width: 236
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b8aea2bdff3f080800000000000000
+      internalID: -9154692300731151540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alina - Transform_9
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 53
+        width: 236
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c662df778c902da0800000000000000
+      internalID: -5971601000114264380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alina - Transform_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 44
+        width: 236
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb4f81291e913940800000000000000
+      internalID: 5274170469401971661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

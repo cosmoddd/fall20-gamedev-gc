@@ -1,0 +1,619 @@
+fileFormatVersion: 2
+guid: 5bdd1bdd8902a384482d9f33a12df408
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1583963878302559208
+    second: Alina - Transform 2_0
+  - first:
+      213: 7036338002214311608
+    second: Alina - Transform 2_1
+  - first:
+      213: -2882308266918443987
+    second: Alina - Transform 2_2
+  - first:
+      213: -5956362507737771558
+    second: Alina - Transform 2_3
+  - first:
+      213: 2345469554172455980
+    second: Alina - Transform 2_4
+  - first:
+      213: 5535094171474678754
+    second: Alina - Transform 2_5
+  - first:
+      213: 808124299008994217
+    second: Alina - Transform 2_6
+  - first:
+      213: -2958521864209131057
+    second: Alina - Transform 2_7
+  - first:
+      213: -2717110942876914103
+    second: Alina - Transform 2_8
+  - first:
+      213: 8530026930137586932
+    second: Alina - Transform 2_9
+  - first:
+      213: -737414125876479718
+    second: Alina - Transform 2_10
+  - first:
+      213: 4203105444960620602
+    second: Alina - Transform 2_11
+  - first:
+      213: 4226555331117855484
+    second: Alina - Transform 2_12
+  - first:
+      213: -9201578977548804091
+    second: Alina - Transform 2_13
+  - first:
+      213: 2091501831015368592
+    second: Alina - Transform 2_14
+  - first:
+      213: -5847780841434571568
+    second: Alina - Transform 2_15
+  - first:
+      213: -6919172898376199082
+    second: Alina - Transform 2_16
+  - first:
+      213: -8852253556922587836
+    second: Alina - Transform 2_17
+  - first:
+      213: -6872382346055823284
+    second: Alina - Transform 2_18
+  - first:
+      213: 7071766678453453629
+    second: Alina - Transform 2_19
+  - first:
+      213: 7844529824857411017
+    second: Alina - Transform 2_20
+  - first:
+      213: 4775692943317662775
+    second: Alina - Transform 2_21
+  - first:
+      213: 618863413222770448
+    second: Alina - Transform 2_22
+  - first:
+      213: 2604585180332330668
+    second: Alina - Transform 2_23
+  - first:
+      213: -5318822748685958297
+    second: Alina - Transform 2_24
+  - first:
+      213: -8920475090007728461
+    second: Alina - Transform 2_25
+  - first:
+      213: 6279616717051516974
+    second: Alina - Transform 2_26
+  - first:
+      213: -459290795555456969
+    second: Alina - Transform 2_27
+  - first:
+      213: -6221902201222678184
+    second: Alina - Transform 2_28
+  - first:
+      213: 8301659266028667927
+    second: Alina - Transform 2_29
+  - first:
+      213: 6851656382063747236
+    second: Alina - Transform 2_30
+  - first:
+      213: 1254041720047479802
+    second: Alina - Transform 2_31
+  - first:
+      213: 4909373627814886353
+    second: Alina - Transform 2_32
+  - first:
+      213: -6436592531172468961
+    second: Alina - Transform 2_33
+  - first:
+      213: -8986544674103683744
+    second: Alina - Transform 2_34
+  - first:
+      213: 1149641607226995555
+    second: Alina - Transform 2_35
+  - first:
+      213: -6437988204466976024
+    second: Alina - Transform 2_36
+  - first:
+      213: 2327389409973183886
+    second: Alina - Transform 2_37
+  - first:
+      213: 3240488037217120149
+    second: Alina - Transform 2_38
+  - first:
+      213: 1200100307050392249
+    second: Alina - Transform 2_39
+  - first:
+      213: 5524630623846275605
+    second: Alina - Transform 2_40
+  - first:
+      213: 3163328802089143904
+    second: Alina - Transform 2_41
+  - first:
+      213: -8708052638177263948
+    second: Alina - Transform 2_42
+  - first:
+      213: -7222805967313679072
+    second: Alina - Transform 2_43
+  - first:
+      213: 6061340588147092420
+    second: Alina - Transform 2_44
+  - first:
+      213: 3908421746790536456
+    second: Alina - Transform 2_45
+  - first:
+      213: -589984388982583126
+    second: Alina - Transform 2_46
+  - first:
+      213: -7964836156389531624
+    second: Alina - Transform 2_47
+  - first:
+      213: 4343090303951467196
+    second: Alina - Transform 2_48
+  - first:
+      213: 519592911889526036
+    second: Alina - Transform 2_49
+  - first:
+      213: 6561689760775802855
+    second: Alina - Transform 2_50
+  - first:
+      213: 4997352441161455045
+    second: Alina - Transform 2_51
+  - first:
+      213: 1244811054470504665
+    second: Alina - Transform 2_52
+  - first:
+      213: 508976091072303863
+    second: Alina - Transform 2_53
+  - first:
+      213: 3893591064022711608
+    second: Alina - Transform 2_54
+  - first:
+      213: 884267957733526912
+    second: Alina - Transform 2_55
+  - first:
+      213: 7065567191552044297
+    second: Alina - Transform 2_56
+  - first:
+      213: 8120595461155232936
+    second: Alina - Transform 2_57
+  - first:
+      213: -3547654308651437949
+    second: Alina - Transform 2_58
+  - first:
+      213: -5129575795819169874
+    second: Alina - Transform 2_59
+  - first:
+      213: 7662353375069322824
+    second: Alina - Transform 2_60
+  - first:
+      213: -5358741743698546911
+    second: Alina - Transform 2_61
+  - first:
+      213: -7554998212926925962
+    second: Alina - Transform 2_62
+  - first:
+      213: 7391537568452865007
+    second: Alina - Transform 2_63
+  - first:
+      213: 2515919611888060872
+    second: Alina - Transform 2_64
+  - first:
+      213: 5403108130334437334
+    second: Alina - Transform 2_65
+  - first:
+      213: 6457130359472155367
+    second: Alina - Transform 2_66
+  - first:
+      213: 2503706882170557823
+    second: Alina - Transform 2_67
+  - first:
+      213: 5183031032542720756
+    second: Alina - Transform 2_68
+  - first:
+      213: -7825071492167976923
+    second: Alina - Transform 2_69
+  - first:
+      213: -3271794010929053672
+    second: Alina - Transform 2_70
+  - first:
+      213: 1489449522836524998
+    second: Alina - Transform 2_71
+  - first:
+      213: 8254417900773985997
+    second: Alina - Transform 2_72
+  - first:
+      213: -8303013799089443217
+    second: Alina - Transform 2_73
+  - first:
+      213: 2991482136213458903
+    second: Alina - Transform 2_74
+  - first:
+      213: -6705118546553825173
+    second: Alina - Transform 2_75
+  - first:
+      213: -7990172678270786551
+    second: Alina - Transform 2_76
+  - first:
+      213: -1171639388445831367
+    second: Alina - Transform 2_77
+  - first:
+      213: -3795800718528429991
+    second: Alina - Transform 2_78
+  - first:
+      213: 1448488078315904962
+    second: Alina - Transform 2_79
+  - first:
+      213: 64775197226221092
+    second: Alina - Transform 2_80
+  - first:
+      213: -7468097699177765394
+    second: Alina - Transform 2_81
+  - first:
+      213: -1150839493634365153
+    second: Alina - Transform 2_82
+  - first:
+      213: 1574211520400744911
+    second: Alina - Transform 2_83
+  - first:
+      213: -8397304067175372807
+    second: Alina - Transform 2_84
+  - first:
+      213: 7171781049342263998
+    second: Alina - Transform 2_85
+  - first:
+      213: -2393973881202728321
+    second: Alina - Transform 2_86
+  - first:
+      213: 1553798643605937161
+    second: Alina - Transform 2_87
+  - first:
+      213: -1607519555882954994
+    second: Alina - Transform 2_88
+  - first:
+      213: -7193025665746122458
+    second: Alina - Transform 2_89
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alina - Transform 2_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 747
+        width: 230
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814d9b0be31a40ae0800000000000000
+      internalID: -1583963878302559208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alina - Transform 2_1
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 745
+        width: 230
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6d095022816a160800000000000000
+      internalID: 7036338002214311608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alina - Transform 2_2
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 735
+        width: 230
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24872107ebfff7d0800000000000000
+      internalID: -2882308266918443987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alina - Transform 2_3
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 734
+        width: 212
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1d5dc7bdfb65da0800000000000000
+      internalID: -5956362507737771558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alina - Transform 2_4
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 415
+        width: 230
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c61f7f128cc8020800000000000000
+      internalID: 2345469554172455980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alina - Transform 2_5
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 406
+        width: 230
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e35511a2da90dc40800000000000000
+      internalID: 5535094171474678754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alina - Transform 2_6
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 395
+        width: 230
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abeac0b4c8073b00800000000000000
+      internalID: 808124299008994217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alina - Transform 2_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 230
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc996971a0831f6d0800000000000000
+      internalID: -2958521864209131057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alina - Transform 2_8
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 50
+        width: 230
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94eae7a4ef1ea4ad0800000000000000
+      internalID: -2717110942876914103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alina - Transform 2_9
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 53
+        width: 230
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcdd578c4eb06670800000000000000
+      internalID: 8530026930137586932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alina - Transform 2_10
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 65
+        width: 230
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19f6ce62cd24c5f0800000000000000
+      internalID: -737414125876479718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
