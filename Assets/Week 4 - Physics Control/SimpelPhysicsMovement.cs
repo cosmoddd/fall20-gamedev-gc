@@ -13,10 +13,13 @@ public class SimpelPhysicsMovement : MonoBehaviour
 
     public Vector3 movementVector;
 
+    public AudioSource audioSource;
 
     void Start()
     {
         GetComponent<Rigidbody2D>();
+
+        audioSource = GetComponent<AudioSource>();
 
     }
 
@@ -44,10 +47,21 @@ public class SimpelPhysicsMovement : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Space))  // Space bar triggers jump instantly.
         {
+
+
             if (groundCheckScript.isGrounded)
             {
                 thisRigidbody2D.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+            
+                // randomly pitch audio when you jump
+                audioSource.pitch = (Random.Range(0.26f, 1f));
+                audioSource.Play();
+            
+                // set audio source to specific time
+                audioSource.time = .2f;
+                audioSource.Play();
             }
+
         }
 
         if (groundCheckScript.isGrounded == true)
